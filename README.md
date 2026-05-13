@@ -7,6 +7,8 @@ Apprendre à créer et naviguer entre des fragments dynamiques avec `FragmentMan
 ---
 
 ## Structure du projet
+
+\```
 FragmentsLab/
 ├── MainActivity.java        → Contrôleur principal, gère la navigation
 ├── FragmentOne.java         → Fragment 1 avec bouton interactif
@@ -14,8 +16,7 @@ FragmentsLab/
 ├── activity_main.xml        → Layout principal avec FrameLayout conteneur
 ├── fragment_one.xml         → Layout du Fragment 1
 └── fragment_two.xml         → Layout du Fragment 2
-
----
+\```
 
 ## Fonctionnalités
 
@@ -59,4 +60,4 @@ FragmentsLab/
 ## Technologies
 - Java
 - Android SDK (Min API 24)
-- AndroidX Fragment<img width="1080" height="2340" alt="Screenshot_20260513_201923_FragmentsLab" src="https://github.com/user-attachments/assets/bf320ed8-a498-44c2-9b17-a6d540731e67" />
+- AndroidX Fragment
