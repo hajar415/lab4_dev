@@ -8,7 +8,7 @@ Apprendre à créer et naviguer entre des fragments dynamiques avec `FragmentMan
 
 ## Structure du projet
 
-\```
+```
 FragmentsLab/
 ├── MainActivity.java        → Contrôleur principal, gère la navigation
 ├── FragmentOne.java         → Fragment 1 avec bouton interactif
@@ -16,7 +16,7 @@ FragmentsLab/
 ├── activity_main.xml        → Layout principal avec FrameLayout conteneur
 ├── fragment_one.xml         → Layout du Fragment 1
 └── fragment_two.xml         → Layout du Fragment 2
-\```
+```
 
 ## Fonctionnalités
 
