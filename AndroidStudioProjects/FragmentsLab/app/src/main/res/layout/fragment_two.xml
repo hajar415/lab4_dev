@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="32dp"
+    android:background="#FFF3E0">
+
+
+    <TextView
+        android:id="@+id/labelValeur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Niveau : 0"
+        android:textSize="22sp"
+        android:textColor="#E65100"
+        android:layout_marginBottom="24dp"/>
+
+
+    <SeekBar
+        android:id="@+id/barreProgression"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:max="100"
+        android:progressTint="#FF6F00"
+        android:thumbTint="#6A0DAD"/>
+
+
+</LinearLayout>
